@@ -56,20 +56,20 @@ You will need:
 ## FAQ
 
 - How will this help me?
-        - Agilechan will keep you on track with your daily activities for whatever agile framework you use. For example if you are in your daily sprint and need some guidance, you can call Agilechan and it will provide you with the 3 task you need to complete:
-        - It will show you what you did the last time you used Agilechan.
-        - Make you write down what you are going to do today.
-        - And ask you to write down the obstacles in your way.  
+	- Agilechan will keep you on track with your daily activities for whatever agile framework you use. For example if you are in your daily sprint and need some guidance, you can call Agilechan and it will provide you with the 3 task you need to complete:
+	+ It will show you what you did the last time you used Agilechan.
+	+ Make you write down what you are going to do today.
+	+ And ask you to write down the obstacles in your way.  
 - When should I use it?
-        - It is recommended that you use it every daily scrum, or its equivalent, for the best results. But it is ok to use it every blue moon in a sprint cycle (4-5 times).
+	- It is recommended that you use it every daily scrum, or its equivalent, for the best results. But it is ok to use it every blue moon in a sprint cycle (4-5 times).
 - Why did you create this?
-        - I wanted something that could better my understanding and implementation of an agile mindset that doesn't require a team.
+	- I wanted something that could better my understanding and implementation of an agile mindset that doesn't require a team.
 - What if I want to have another agile framework?
-        - Make a pull request and let everyone know what framework you want to implement.
+	- Make a pull request and let everyone know what framework you want to implement.
 - What will this do for my team?
-        - Hopefully it will give them some physical overview of how they performed during a sprint cycle and also enhance the reflection phase.
+	- Hopefully it will give them some physical overview of how they performed during a sprint cycle and also enhance the reflection phase.
 - Do I really need a team?
-        - No. You can use Agilechan to practice the agile mindset alone as a standalone developer.
+	- No. You can use Agilechan to practice the agile mindset alone as a standalone developer.
 
 
 ## Troubleshooting and support
