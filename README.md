@@ -57,9 +57,9 @@ You will need:
 
 - How will this help me?
 	- Agilechan will keep you on track with your daily activities for whatever agile framework you use. For example if you are in your daily sprint and need some guidance, you can call Agilechan and it will provide you with the 3 task you need to complete:
-	+ It will show you what you did the last time you used Agilechan.
-	+ Make you write down what you are going to do today.
-	+ And ask you to write down the obstacles in your way.  
+		+ It will show you what you did the last time you used Agilechan. 
+		+ Make you write down what you are going to do today. 
+		+ And ask you to write down the obstacles in your way.    
 - When should I use it?
 	- It is recommended that you use it every daily scrum, or its equivalent, for the best results. But it is ok to use it every blue moon in a sprint cycle (4-5 times).
 - Why did you create this?
