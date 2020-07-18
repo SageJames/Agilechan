@@ -84,7 +84,7 @@ Make the issue like this:
 
 ## Note
 
-Special Thanks to my professor Dr.Fenwick for an amazing software engineering class! 
+Special Thanks to my professor Dr.Fenwick for an amazing software engineering class!   
 We follow the values of the agile manifesto and hope that you as a developer do so as well.
 
 > Individuals and interactions over processes and tools.
