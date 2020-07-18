@@ -22,14 +22,33 @@ You will need:
 ## Installation Instructions
 
 1. Run `git clone https://github.com/SageJames/Agilechan.git`
-2. `cd Agilecan`
-3. `make compile`
-4. `make test` 
+2. Move into the file `cd Agilecan`
+3. Compile it `make compile`
+4. Test it out on your system `make test` 
 5. Once you see all green then `make Agile`
 6. Test it out by typing `agilechan` 
  
 
 ## Links
+
+### Original Text utilized:
+#### Agile
+* [Agile 101] (https://www.agilealliance.org/agile101/)
+* [The Agile Manifesto] (http://agilemanifesto.org/)
+* [12 Principles Behind the Agile Manifesto] (https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
+* [Agile for Dummies] (https://www.dummies.com/careers/project-management/agile-project-management-for-dummies-cheat-sheet/)
+#### Scrum 
+* [The Scrum Alliance] (https://www.scrumalliance.org/about-scrum/overview)
+* [Scrum Overview] (https://www.atlassian.com/agile/scrum)
+* [Tutorialspoint Sccrum] (https://www.tutorialspoint.com/scrum/scrum_framework.htm)
+#### XP
+* [Agiles XP] (https://www.agilealliance.org/glossary/xp/)
+* [Detailed XP] (http://www.agilemodeling.com/essays/agileModelingXP.htm)
+* [Scrum vs XP] (https://www.visual-paradigm.com/scrum/extreme-programming-vs-scrum/)
+#### Kanban
+* [Kanban Wiki] (https://en.wikipedia.org/wiki/Kanban_(development))
+* [Kanban Guide] (https://www.atlassian.com/agile/kanban)
+* [Kanban vs Scrum] (https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
 
 ## FAQ
 
@@ -46,10 +65,12 @@ You will need:
 
 ## Licensing
 
+MIT License 2020©
+
 ## Notes
 We follow the values of the agile manifesto and hope that you as a developer do so as well.
 
-> Individuals and interactions over processes and tools
-> Working software over comprehensive documentation
-> Customer collaboration over contract negotiation
-> Responding to change over following a plan
+> Individuals and interactions over processes and tools.
+> Working software over comprehensive documentation.
+> Customer collaboration over contract negotiation.
+> Responding to change over following a plan.
