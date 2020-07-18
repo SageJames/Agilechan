@@ -1,18 +1,20 @@
 # Agilechan
  .._██_..  
  ‹(•¿•)›    
-  ..(█) ..  A virtual assistance that helped you follow whatever agile practice you want to do with your team.  
+  ..(█) ..  A virtual assistant that helps you follow agile practices.  
    ../ I.  
 
 ## Introduction
 
-The agile process is a mindset created by developers to welcome change and overcome difficult task. For all people that have or want to be a part of a modern development team it is essentail to learn the agile mindset and the agile frameworks. That is why agilechan was invented. Its job is to support you while you and your team go through the agile process. Agilechan provides you with many different framework such as Scrum, XP, Kanban, etc. Agilechan will keep track of your processes and tell you what part of the process you are in and remind you about the princiles of agile all from your terminal! 
+The agile mindset was created by developers to welcome change and overcome difficulty. For all people that have or want to be a part of a modern development team it is essential to learn the agile mindset and its frameworks. That is why Agilechan was invented. Its job is to support you while keeping track of your daily agile processes and reminding you about the principles of agile from your terminal! Currently Agilechan provides support for Scrum, XP, and Kanban. 
 
 ## Equipment & Materials
 
-You will need: 
+You will need:
 * Terminal
+* Linux
 * Java
+
 
 ## Example
 
@@ -21,13 +23,15 @@ You will need:
 
 ## Installation Instructions
 
-1. Run `git clone https://github.com/SageJames/Agilechan.git`
-2. Move into the file `cd Agilecan`
-3. Compile it `make compile`
-4. Test it out on your system `make test` 
-5. Once you see all green then `make Agile`
-6. Test it out by typing `agilechan` 
- 
+1. First `cd /usr/bin/`
+2. Run `sudo git clone https://github.com/SageJames/Agilechan.git`
+3. Enter your password
+4. Move into the file `cd Agilecan`
+5. Compile it `make compile`
+6. Test it out on your system `make test`
+7. Once you see all green then `make Agile`
+8. Test it out by typing `agilechan`
+
 
 ## Links
 
@@ -36,10 +40,10 @@ You will need:
 * [The Agile Manifesto](http://agilemanifesto.org/)
 * [12 Principles Behind the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 * [Agile for Dummies](https://www.dummies.com/careers/project-management/agile-project-management-for-dummies-cheat-sheet/)
-#### Scrum 
+#### Scrum
 * [The Scrum Alliance](https://www.scrumalliance.org/about-scrum/overview)
 * [Scrum Overview](https://www.atlassian.com/agile/scrum)
-* [Tutorialspoint Sccrum](https://www.tutorialspoint.com/scrum/scrum_framework.htm)
+* [Tutorialspoint Scrum](https://www.tutorialspoint.com/scrum/scrum_framework.htm)
 #### XP
 * [Agiles XP](https://www.agilealliance.org/glossary/xp/)
 * [Detailed XP](http://www.agilemodeling.com/essays/agileModelingXP.htm)
@@ -51,23 +55,26 @@ You will need:
 
 ## FAQ
 
-- How will this help me? 
-	- Agilechan will keep you on track for your daily active for whatever agile process you are in. For example if you are in your daily sprint and need some guidance, you can call agilechan. It will pprovide you with the 3 task you need to complete by showing you what you did yesterday, make you write what you are going to do along with how long it will then it will take note of what is in your way, At the end of a sprint it will have compiled a list of things for you to reveiw. 
+- How will this help me?
+        - Agilechan will keep you on track with your daily activities for whatever agile framework you use. For example if you are in your daily sprint and need some guidance, you can call Agilechan and it will provide you with the 3 task you need to complete:
+        - It will show you what you did the last time you used Agilechan.
+        - Make you write down what you are going to do today.
+        - And ask you to write down the obstacles in your way.  
 - When should I use it?
-	- It best recommend that you use it every daily sprint for the best results. But it is ok to use every blue moon in a sprint cycle (4-5 times). 
-- Why did you create this? 
-	- I want some that could keep me on focus when I am program and my overhead is slacking. Also if I am trying to learn agile on my own.
+        - It is recommended that you use it every daily scrum, or its equivalent, for the best results. But it is ok to use it every blue moon in a sprint cycle (4-5 times).
+- Why did you create this?
+        - I wanted something that could better my understanding and implementation of an agile mindset that doesn't require a team.
 - What if I want to have another agile framework?
-	- Make a pull request and let everyone know what frame you want to implement.
+        - Make a pull request and let everyone know what framework you want to implement.
 - What will this do for my team?
-	- Hopfully it will give them some physical overview of how they preformed during a sprint cycle and also enhance the refecltion phase.
-- Do I really need a team? 
-	- No. Runing with Agilechan is ok if you want to learn how to get into the Agile mindset.
+        - Hopefully it will give them some physical overview of how they performed during a sprint cycle and also enhance the reflection phase.
+- Do I really need a team?
+        - No. You can use Agilechan to practice the agile mindset alone as a standalone developer.
 
 
 ## Troubleshooting and support
 Create an [Issue](https://github.com/SageJames/Agilechan/issues)
-Make the issue like this: 
+Make the issue like this:
 * Issue title
 * Description of issue
 * How you discovered it
@@ -76,8 +83,8 @@ Make the issue like this:
 ## How to Contribute
 
 1. Create a pull request
-2. Make a branch to work on you modifcation 
-3. Get you code reveiwed
+2. Make a branch to work on your modification
+3. Get your code reviewed
 4. Commit your code!
 
 > Agilechan thanks all those that can help!
@@ -98,3 +105,4 @@ We follow the values of the agile manifesto and hope that you as a developer do 
 ## Licensing
 
 MIT License 2020©
+
