@@ -1,8 +1,8 @@
 # Agilechan
-  ._██_.  
+   ._██_.  
  ‹(•¿•)›   A virtual assistance that helped you follow whatever agile practice you want to do with your team.  
  ..(█) ..  
-  ./ I.  
+   ./ I.  
 
 ## Introduction
 
