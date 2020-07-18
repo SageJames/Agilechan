@@ -1,8 +1,8 @@
 # Agilechan
-  ._██_. 
- ‹(•¿•)›   A virtual assistance that helped you follow whatever agile practice you want to do with your team.
- ..(█) ..
-  ./ I. 
+  ._██_.  
+ ‹(•¿•)›   A virtual assistance that helped you follow whatever agile practice you want to do with your team.  
+ ..(█) ..  
+  ./ I.  
 
 ## Introduction
 
@@ -11,7 +11,7 @@ The agile process is a mindset created by developers to welcome change and overc
 ## Equipment & Materials
 
 You will need: 
-* A Terminal
+* Terminal
 * Java
 
 ## Example
@@ -82,12 +82,17 @@ Make the issue like this:
 
 > Agilechan thanks all those that can help!
 
-## Notes
+## Note
+
+Special Thanks to my professor Dr.Fenwick for an amazing software engineering class! 
 We follow the values of the agile manifesto and hope that you as a developer do so as well.
 
 > Individuals and interactions over processes and tools.
+
 > Working software over comprehensive documentation.
+
 > Customer collaboration over contract negotiation.
+
 > Responding to change over following a plan.
 
 ## Licensing
