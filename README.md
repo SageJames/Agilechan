@@ -51,28 +51,27 @@ You will need:
 
 ## FAQ
 
-### How will this help me? 
-Agilechan will keep you on track for your daily active for whatever agile process you are in. For example if you are in your daily sprint and need some guidance, you can call agilechan.
-It will pprovide you with the 3 task you need to complete by showing you what you did yesterday, make you write what you are going to do along with how long it will then it will take note of what is in your way, At the end of a sprint it will have compiled a list of things for you to reveiw. 
-### When should I use it?
-It best recommend that you use it every daily sprint for the best results. But it is ok to use every blue moon in a sprint cycle (4-5 times). 
-### Why did you create this? 
-I want some that could keep me on focus when I am program and my overhead is slacking. Also if I am trying to learn agile on my own.
-### What if I want to have another agile framework?
-Make a pull request and let everyone know what frame you want to implement.
-### What will this do for my team?
-Hopfully it will give them some physical overview of how they preformed during a sprint cycle and also enhance the refecltion phase.
-### Do I really need a team? 
-No. Runing with Agilechan is ok if you want to learn how to get into the Agile mindset.
+- How will this help me? 
+	- Agilechan will keep you on track for your daily active for whatever agile process you are in. For example if you are in your daily sprint and need some guidance, you can call agilechan. It will pprovide you with the 3 task you need to complete by showing you what you did yesterday, make you write what you are going to do along with how long it will then it will take note of what is in your way, At the end of a sprint it will have compiled a list of things for you to reveiw. 
+- When should I use it?
+	- It best recommend that you use it every daily sprint for the best results. But it is ok to use every blue moon in a sprint cycle (4-5 times). 
+- Why did you create this? 
+	- I want some that could keep me on focus when I am program and my overhead is slacking. Also if I am trying to learn agile on my own.
+- What if I want to have another agile framework?
+	- Make a pull request and let everyone know what frame you want to implement.
+- What will this do for my team?
+	- Hopfully it will give them some physical overview of how they preformed during a sprint cycle and also enhance the refecltion phase.
+- Do I really need a team? 
+	- No. Runing with Agilechan is ok if you want to learn how to get into the Agile mindset.
 
 
 ## Troubleshooting and support
 Create an [Issue](https://github.com/SageJames/Agilechan/issues)
-List out the issue: 
-	* Issue title
-	* Description of issue
-	* How you discovered it
-	* If you can fix it or not
+Make the issue like this: 
+* Issue title
+* Description of issue
+* How you discovered it
+* If you can fix it or not
 
 ## How to Contribute
 
