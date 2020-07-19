@@ -73,7 +73,7 @@ You will need:
 
 
 ## Troubleshooting and support
-Create an [Issue](https://github.com/SageJames/Agilechan/issues)   
+Create an [Issue](https://github.com/SageJames/Agilechan/issues).   
 Make the issue like this:
 * Issue title
 * Description of issue
