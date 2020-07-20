@@ -77,9 +77,9 @@ You will need:
 - What if I want to have another agile framework?
 	- Make a pull request and let everyone know what framework you want to implement.
 - What will this do for my team?
-	- Hopefully it will give them some physical overview of how they performed during a sprint cycle and also enhance the reflection phase.
+	- Hopefully, it will give them some physical overview of how they performed during a sprint cycle and also enhance the reflection phase.
 - Do I really need a team?
-	- No. You can use Agilechan to practice the agile mindset alone as a standalone developer.
+	- No. You can use Agilechan to practice the agile mindset alone as a single developer.
 
 
 ## Troubleshooting and support
