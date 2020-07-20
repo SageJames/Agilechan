@@ -36,7 +36,7 @@ You will need:
 1. First `cd /usr/bin/`
 2. Run `sudo git clone https://github.com/SageJames/Agilechan.git`
 3. Enter your password
-4. Move into the file `cd Agilecan`
+4. Move into the file `cd Agilechan`
 5. Compile it `make compile`
 6. Test it out on your system `make test`
 7. Once you see all green then `make Agile`
