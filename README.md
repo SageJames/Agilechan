@@ -73,7 +73,7 @@ You will need:
 - When should I use it?
 	- We recommended that you use Agilechan daily, for the best results. But it is ok to use it every blue moon in a sprint cycle (4-5 times).
 - Why did you create this?
-	- I wanted something that could better my understanding and implementation of an agile mindset that doesn't require a team.
+	- I wanted something that could better my implementation of an agile mindset and does not require a team.
 - What if I want to have another agile framework?
 	- Make a pull request and let everyone know what framework you want to implement.
 - What will this do for my team?
