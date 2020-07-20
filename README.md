@@ -19,10 +19,10 @@ You will need:
 ## Example
 
 ```
- .._██_..  
- ‹(•¿•)›    
+  .._██_..  
+  ‹(•¿•)›    
   ..(█) .. Hello user, What can I help you with? 
-   ../ I.
+  ../ I.
   
  1. Daily task
  2. Remind me a principle
