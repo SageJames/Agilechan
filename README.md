@@ -82,7 +82,7 @@ You will need:
 	- No. You can use Agilechan to practice the agile mindset alone as a single developer.
 
 
-## Troubleshooting and support
+## Troubleshooting and Support
 Create an [Issue](https://github.com/SageJames/Agilechan/issues).   
 Make the issue like this:
 * Issue title
