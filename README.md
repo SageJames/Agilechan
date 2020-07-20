@@ -28,7 +28,7 @@ You will need:
  1. Daily task
  2. Remind me of a principle
  3. Exit
-   $█
+ $ █
 ```
 
 ## Installation Instructions
