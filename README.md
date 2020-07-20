@@ -18,8 +18,16 @@ You will need:
 
 ## Example
 
-
-
+```
+ .._██_..  
+ ‹(•¿•)›    
+  ..(█) .. Hello user, What can I help you with? 
+   ../ I.
+  
+ 1. Daily task
+ 2. Remind me a principle
+ 3. Exit
+```
 
 ## Installation Instructions
 
