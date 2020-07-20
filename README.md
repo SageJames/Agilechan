@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The agile mindset was created by developers to welcome change and overcome difficulty. For all people that have or want to be a part of a modern development team, it is essential to learn the agile mindset and its frameworks. That is why Agilechan was invented. Its job is to support you while keeping track of your daily agile processes and reminding you about the principles of agile from your terminal! Currently, Agilechan provides support for Scrum, XP, and Kanban. [Website formant](https://sagejames.github.io/Agilechan/) 
+The agile mindset was created by developers to welcome change and overcome difficulty. For all people that have or want to be a part of a modern development team, it is essential to learn the agile mindset and its frameworks. That is why Agilechan was invented. Its job is to support you while keeping track of your daily agile processes and reminding you about the principles of agile from your terminal! Currently, Agilechan provides support for Scrum, XP, and Kanban. [Website format](https://sagejames.github.io/Agilechan/) 
 
 ## Equipment & Materials
 
