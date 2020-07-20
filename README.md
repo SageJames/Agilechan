@@ -97,11 +97,9 @@ Make the issue like this:
 3. Get your code reviewed
 4. Commit your code!
 
-> Agilechan thanks all those that can help!
 
 ## Note
-
-Special Thanks to my professor Dr.Fenwick for an amazing software engineering class!   
+ 
 We follow the values of the agile manifesto and hope that you as a developer do so as well.
 
 > **Individuals and interactions** over processes and tools.  
