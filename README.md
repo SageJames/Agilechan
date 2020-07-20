@@ -71,7 +71,7 @@ You will need:
 		+ Make you write down what you are going to do today. 
 		+ And ask you to write down the obstacles in your way.    
 - When should I use it?
-	- It is recommended that you use it every daily scrum, or its equivalent, for the best results. But it is ok to use it every blue moon in a sprint cycle (4-5 times).
+	- We recommended that you use Agilechan daily, for the best results. But it is ok to use it every blue moon in a sprint cycle (4-5 times).
 - Why did you create this?
 	- I wanted something that could better my understanding and implementation of an agile mindset that doesn't require a team.
 - What if I want to have another agile framework?
