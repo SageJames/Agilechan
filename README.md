@@ -66,7 +66,7 @@ You will need:
 ## FAQs
 
 - How will this help me?
-	- Agilechan will keep you on track with your daily activities for whatever agile framework you use. For example if you are in your daily sprint and need some guidance, you can call Agilechan and it will provide you with the 3 task you need to complete:
+	- Agilechan will keep you on track with your daily activities for whatever agile framework you use. For example, if you are in your daily sprint and need some guidance, you can call Agilechan and it will provide you with the three tasks you need to complete:
 		+ It will show you what you did the last time you used Agilechan. 
 		+ Make you write down what you are going to do today. 
 		+ And ask you to write down the obstacles in your way.    
