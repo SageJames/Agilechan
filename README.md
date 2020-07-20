@@ -63,7 +63,7 @@ You will need:
 * [Kanban Guide](https://www.atlassian.com/agile/kanban)
 * [Kanban vs Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
 
-## FAQ
+## FAQs
 
 - How will this help me?
 	- Agilechan will keep you on track with your daily activities for whatever agile framework you use. For example if you are in your daily sprint and need some guidance, you can call Agilechan and it will provide you with the 3 task you need to complete:
